@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: nugsl-tagtool
+Version: 1.5
+Summary: Apply a function to balanced XML tag environments
+Home-page: http://gsl-nagoya-u.net/
+Author: Frank Bennett
+Author-email: biercenator@gmail.com
+License: http://www.gnu.org/copyleft/gpl.html
+Description: This program addresses the irritating problem of applying
+        regular expressions and other common simple text processing
+        methods to balanced tags within an XML document.  It gives
+        you enough rope to hang yourself with; it is _not_ a fully
+        fledged XML tool.
+Platform: any
+Provides: nugsl.tagtool
